@@ -1,0 +1,10 @@
+rootProject.name = 'sdk'
+include 'module'
+include 'multiply2'
+include 'mongosample'
+include 'multiply3'
+include 'chat'
+include 'authenticate'
+include 'OneToOneDispatcher'
+include 'FootballKaghazi'
+
